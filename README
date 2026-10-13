@@ -1,0 +1,12 @@
+DESIGN GOAL:
+
+I programmed my army to work in groups that advance towards the enemy on both sides of the river. At the beginning of the battle, they regroup with their group and then advance to each side of the river.
+
+REFLECTION:
+
+I used behavioral blocks to give each unit specific roles within the army. This allowed each unit to perform their role depending on their class.
+
+AI USE:
+
+I used Claude Code to help with the project. It helped modify and improve my code, as well as fix any problems or errors. Any code it helped write, I read over and tested the agent to see if there were still any
+problems. It definitely made the experience easier and faster.
